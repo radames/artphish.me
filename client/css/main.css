@@ -1,0 +1,163 @@
+#page{
+    position:relative;
+    width:auto;
+    height:auto;
+    /*border:solid blue;*/
+    /*padding: 20px;*/
+    
+}
+
+
+#header{
+    width:auto;
+    height:150px;
+    background: 
+ #e60000;
+    margin-bottom: 10px;
+   
+    
+}
+
+#title{
+    
+    margin-left: 50px;
+    align-content: bottom;
+    float:left;
+    padding:-300px, 10px, 10px, 10px;
+    display:block;
+    padding-left: 0px;
+    padding-top: 50px;
+    
+}
+
+.titlestyle{
+    color:
+ 	 #ffffe6;
+    font-size: 40px;
+    text-align: center;
+    font-family:monospace;
+   
+}
+
+.bodytext{
+     color:#1a1a1a;
+    font-size: 20px;
+    text-align: justify;
+    font-family:monospace;
+    
+}
+
+#link{
+    text-decoration: none;
+    color:	 #1a1a1a;
+    font-size: 20px;
+    font-family:monospace;
+    display:inline-block;
+    float:right;
+    padding:150px 50px 5px 5px;
+    
+}
+
+a{
+    text-decoration: none;
+    color:#1a1a1a;
+}
+
+.bodytext{
+    width:700px;
+    height:700px;
+    Clear:both;
+    margin:auto;
+    border-top:solid 5px #e60000;
+    
+    float:none;
+    margin-bottom: 20px;}
+
+.lefttext{
+    text-align: left;
+
+}
+
+#padlock{ width: 50px; 
+    height:auto;
+    padding-right: 20px;
+    
+}
+#clickbait{
+    position:fixed;
+    display:block;
+    float:left;
+    clear: both;
+    color:#1a1a1a;
+    font-size: 30px;
+    font-family:monospace;
+    width:30px;
+    height:auto;
+    text-align: center;
+   
+    width:150px;
+    height:auto;
+    
+
+}
+
+
+    
+#mcafee{
+    width:100px;
+    height:auto;
+    float:none;
+    clear:both;
+    padding:20px;
+    position:relative;
+    left: 570px;
+    
+}
+
+#norton{
+    width:100px;
+    height:auto;
+    float:none;
+    clear:both;
+    padding:20px;
+    position:relative;
+    left: 570px;
+    
+}
+
+#veri{
+    width:100px;
+    height:auto;
+    float:none;
+    clear:both;
+    padding:20px;
+    position:relative;
+    left: 570px;
+    
+}
+
+
+#footer {
+	background:#e60000;
+	width:100%;
+	height:20px;
+	bottom:0;
+	left:0;
+    text-align:left;
+    color:#ffffe6;
+    font-size: 15px;
+    font-family:monospace;
+    clear:both;
+    float: none;
+    padding-top: 10px;
+    padding-left: 20px;
+ 
+   
+}
+#video {
+	visibility: hidden;
+}
+#canvas {
+	visibility: hidden;
+}
+
